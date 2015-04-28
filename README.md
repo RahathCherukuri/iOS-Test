@@ -1,6 +1,7 @@
 # iOS-Test
 This is a Programming task for one of the companies.
 There are three parts to this application:
+
   a. Animation Section: Here i have played with a couple of animations
     1. To spin an Image
     2. To shake an Image
